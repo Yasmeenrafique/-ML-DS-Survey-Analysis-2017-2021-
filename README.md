@@ -47,3 +47,10 @@ This project analyzes five years of responses from the **Machine Learning & Data
 - Extracted columns like `Q7_Part_1`, `Q7_Part_2`, ... for each year.
 - Summed usage across all years.
 - Identified top languages used globally.
+
+
+  ## 📬 Connect With Me
+
+**Yasmeen Rafique**  
+🔗 [LinkedIn](www.linkedin.com/in/yasmeen-rafique)  
+📧 yasmeenrafique89@gmail.com
